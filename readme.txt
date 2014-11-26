@@ -28,9 +28,9 @@ You can deactivate the plugin if you don't want to see the dialogues again.
 
 == Screenshots ==
 
-1. Screenshot of the plugin output.
-2. Screenshot of the plugin output.
-3. Screenshot of the plugin output.
+1. Plugin output - Screenshot 1.
+2. Plugin output - Screenshot 2.
+3. Plugin output - Screenshot 3.
 
 == Changelog ==
 
