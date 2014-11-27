@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Chetan Vengurlekar
+Contributors: Chetan Vengurlekar, Sarvi Solutions
 Donate link: 
 Tags: bollywood, one liners dialogues, bollywood dialogues, dialogues
 Requires at least: 3.0.1
